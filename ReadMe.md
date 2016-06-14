@@ -17,6 +17,10 @@
 ******
 1. [前端特效收集](http://codepen.io/)
 
+# React and ReactNative #
+******
+1. Windows 下React Native 环境搭建 [http://bbs.reactnative.cn/topic/10/%E5%9C%A8windows%E4%B8%8B%E6%90%AD%E5%BB%BAreact-native-android%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83](http://bbs.reactnative.cn/topic/10/%E5%9C%A8windows%E4%B8%8B%E6%90%AD%E5%BB%BAreact-native-android%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83)
+
 
 
 # Resources(资源) #

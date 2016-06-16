@@ -7,6 +7,6 @@
 4. 阅读开源项目 https://github.com/skyfe79/AndroidGradientImageView 理解，注释，然后提交Demo（完成）![](img/gradientimageview.gif)
 
 ## 2016.6.16 ##
-1. 小农丁产品详情页面和农场详情页面改成原生
-2. 至少阅读3节React native 文档
-3. 阅读开源项目 https://github.com/webianks/PopupBubble  理解 注释，然后提交demo 
+1. 小农丁产品详情页面和农场详情页面改成原生 (over)
+2. 至少阅读3节React native 文档  
+3. 阅读开源项目 https://github.com/webianks/PopupBubble  理解 注释，然后提交demo (over)

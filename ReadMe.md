@@ -3,6 +3,7 @@
 1. FloationActionButton自定义Behavior:[https://guides.codepath.com/android/floating-action-buttons](https://guides.codepath.com/android/floating-action-buttons "https://guides.codepath.com/android/floating-action-buttons")
 
 2. [ Android Studio 自定义模板（高效开发必备）](http://robusttechhouse.com/tutorial-how-to-create-custom-android-code-templates/)
+3. 详细的android英文教程  [https://github.com/codepath/android_guides/wiki](https://github.com/codepath/android_guides/wiki)
 
 
 

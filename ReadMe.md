@@ -4,6 +4,7 @@
 
 2. [ Android Studio 自定义模板（高效开发必备）](http://robusttechhouse.com/tutorial-how-to-create-custom-android-code-templates/)
 3. 详细的android英文教程  [https://github.com/codepath/android_guides/wiki](https://github.com/codepath/android_guides/wiki)
+4. [Using ThreadPoolExecutor in Android](https://medium.freecodecamp.com/threadpoolexecutor-in-android-8e9d22330ee3#.hiw1y4s2e)([中文翻译](https://xpleeandroid.github.io/2016/07/29/using-threadpoolexcuter-in-android))
 
 
 
@@ -23,6 +24,11 @@
 ******
 1. Windows 下React Native 环境搭建 [http://bbs.reactnative.cn/topic/10/%E5%9C%A8windows%E4%B8%8B%E6%90%AD%E5%BB%BAreact-native-android%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83](http://bbs.reactnative.cn/topic/10/%E5%9C%A8windows%E4%B8%8B%E6%90%AD%E5%BB%BAreact-native-android%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83)
 
+
+## Algorithm ##
+******
+1. 算法与数据结构视频教程 [http://watchmen.cn/video/algorithm/](http://watchmen.cn/video/algorithm/)
+2. 可视化数据结构  [https://www.cs.usfca.edu/~galles/visualization/Algorithms.html](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 
 # Resources(资源) #

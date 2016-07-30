@@ -6,6 +6,7 @@
 3. 详细的android英文教程  [https://github.com/codepath/android_guides/wiki](https://github.com/codepath/android_guides/wiki)
 4. [Using ThreadPoolExecutor in Android](https://medium.freecodecamp.com/threadpoolexecutor-in-android-8e9d22330ee3#.hiw1y4s2e)([中文翻译](https://xpleeandroid.github.io/2016/07/29/using-threadpoolexcuter-in-android))
 5. [Android Guide 适合新手](https://github.com/codepath/android_guides/wiki)
+6. [Android SDK源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
 
 
 

@@ -5,6 +5,7 @@
 2. [ Android Studio 自定义模板（高效开发必备）](http://robusttechhouse.com/tutorial-how-to-create-custom-android-code-templates/)
 3. 详细的android英文教程  [https://github.com/codepath/android_guides/wiki](https://github.com/codepath/android_guides/wiki)
 4. [Using ThreadPoolExecutor in Android](https://medium.freecodecamp.com/threadpoolexecutor-in-android-8e9d22330ee3#.hiw1y4s2e)([中文翻译](https://xpleeandroid.github.io/2016/07/29/using-threadpoolexcuter-in-android))
+5. [Android Guide 适合新手](https://github.com/codepath/android_guides/wiki)
 
 
 
@@ -37,3 +38,4 @@
 2.  [Good articles in English](http://sourcey.com/archives/)  http://sourcey.com/archives/
 3.  大型网站架构演变过程 [http://my.oschina.net/wzwitblog/blog/164240?fromerr=n3dxFSPI](http://my.oschina.net/wzwitblog/blog/164240?fromerr=n3dxFSPI "http://my.oschina.net/wzwitblog/blog/164240?fromerr=n3dxFSPI")
 4.  [awesome大集合1](https://github.com/sindresorhus/awesome)
+5.  [免费编程书籍（极力推荐）](https://github.com/vhf/free-programming-books)

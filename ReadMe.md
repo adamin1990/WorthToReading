@@ -36,3 +36,4 @@
 1. [Android Studio模板资源 ](https://github.com/gabrielemariotti/AndroidStudioTemplate)
 2.  [Good articles in English](http://sourcey.com/archives/)  http://sourcey.com/archives/
 3.  大型网站架构演变过程 [http://my.oschina.net/wzwitblog/blog/164240?fromerr=n3dxFSPI](http://my.oschina.net/wzwitblog/blog/164240?fromerr=n3dxFSPI "http://my.oschina.net/wzwitblog/blog/164240?fromerr=n3dxFSPI")
+4.  [awesome大集合1](https://github.com/sindresorhus/awesome)
